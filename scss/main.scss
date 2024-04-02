@@ -30,6 +30,10 @@ body{
         height: 45vh;
         border-radius: 20px;
         margin-bottom: 2.5vh;
+        @include mobile{
+          height: auto;
+          width: 75vw;
+        }
       }
 
       .card-heading{
