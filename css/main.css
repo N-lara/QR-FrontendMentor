@@ -41,6 +41,7 @@ body .card-container .card .card-heading {
   color: #1F314F;
   margin: 0 1.3rem 2vh 1.3rem;
   font-weight: 700;
+  font-size: 1.3em;
 }
 body .card-container .card .card-content {
   color: #7D889E;
