@@ -32,15 +32,10 @@ body .card-container .card {
   padding: 1rem;
 }
 body .card-container .card .qr-image {
-  height: 50vh;
+  height: 288px;
+  width: 288px;
   border-radius: 20px;
   margin-bottom: 2.5vh;
-}
-@media (max-width: 460px) {
-  body .card-container .card .qr-image {
-    height: auto;
-    width: 75vw;
-  }
 }
 body .card-container .card .card-heading {
   color: #1F314F;

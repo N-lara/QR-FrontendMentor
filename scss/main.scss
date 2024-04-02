@@ -26,13 +26,10 @@ body{
       padding: 1rem;
 
       .qr-image{
-        height: 50vh;
+        height: 288px;
+        width: 288px;
         border-radius: 20px;
         margin-bottom: 2.5vh;
-        @include mobile{
-          height: auto;
-          width: 75vw;
-        }
       }
 
       .card-heading{
