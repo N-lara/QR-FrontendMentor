@@ -35,16 +35,16 @@ body .card-container .card .qr-image {
   height: 288px;
   width: 288px;
   border-radius: 20px;
-  margin-bottom: 2.5vh;
+  margin-bottom: 2vh;
 }
 body .card-container .card .card-heading {
   color: #1F314F;
-  margin-bottom: 2.5vh;
+  margin: 0 0.5vw 2vh 0.5vw;
   font-weight: 700;
 }
 body .card-container .card .card-content {
   color: #7D889E;
-  margin-bottom: 2.5vh;
+  margin: 0 0.5vw 3vh 0.5vw;
   font-size: 15px;
   font-weight: 400;
 }/*# sourceMappingURL=main.css.map */
