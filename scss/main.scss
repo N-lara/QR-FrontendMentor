@@ -7,7 +7,6 @@ body{
 
   .attribution{
     font-size: 11px;
-    text-align: center;
     a{
       color: hsl(228, 45%, 44%);
     }
@@ -39,11 +38,14 @@ body{
       .card-heading{
         color: #1F314F;
         margin-bottom: 2.5vh;
+        font-weight: 700;
       }
 
       .card-content{
         color: #7D889E;
         margin-bottom: 2.5vh;
+        font-size: 15px;
+        font-weight: 400;
       }
     }
   }  
