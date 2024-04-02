@@ -1,0 +1,46 @@
+@import 'config';
+
+body{
+  background-color: #D5E1EF;
+  height: 100vh;
+  text-align: center;
+
+  .attribution{
+    font-size: 11px;
+    text-align: center;
+    a{
+      color: hsl(228, 45%, 44%);
+    }
+  }
+
+  .card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    .card{
+      background-color: #FFFFFF;
+      height: fit-content;
+      width:min-content;
+      border-radius: 20px;
+      padding: 1rem;
+
+      .qr-image{
+        height: 45vh;
+        border-radius: 20px;
+        margin-bottom: 2.5vh;
+      }
+
+      .card-heading{
+        color: #1F314F;
+        margin-bottom: 2.5vh;
+      }
+
+      .card-content{
+        color: #7D889E;
+        margin-bottom: 2.5vh;
+      }
+    }
+  }  
+}
